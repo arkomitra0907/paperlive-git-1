@@ -1,3 +1,2 @@
-First Git
-now modified
+First Git is now in.
 
